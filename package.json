@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "ajv": "^6.12.0",
+    "ajv": "^6.12.3",
     "canvas": "^2.6.1",
     "escape-string-regexp": "^1.0.5",
     "jsdom": "^16.2.1",
